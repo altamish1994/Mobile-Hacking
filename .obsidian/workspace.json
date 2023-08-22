@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Static Analysis/Manifest.md",
+                "file": "Static Analysis/Decompiling.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Static Analysis/Manifest.md",
+                "file": "Static Analysis/Decompiling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Static Analysis/Manifest.md",
+                "file": "Static Analysis/Decompiling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Static Analysis/Manifest.md"
+                "file": "Static Analysis/Decompiling.md"
               }
             }
           }
@@ -161,14 +161,16 @@
   },
   "active": "edf0295dfc9f5196",
   "lastOpenFiles": [
-    "Static Analysis/Pulling APK.md",
+    "MOBSF/Installation.md",
+    "Static Analysis/Decompiling.md",
     "Static Analysis/Manifest.md",
+    "Static Analysis/Pulling APK.md",
+    "Installation/Tools.md",
     "Installation/Physical Device.md",
-    "Static Analysis",
     "Installation/Emulator.md",
     "Installation/Accesss VM-Host ADB.md",
-    "Installation/Tools.md",
+    "Static Analysis",
     "Installation",
-    "Untitled"
+    "MOBSF"
   ]
 }
