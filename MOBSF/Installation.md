@@ -8,7 +8,7 @@
 
 ---------
 
-Dynamic Analyzer
+# Dynamic Analyzer
 
 Need to use the emulator without the playstore icon
 Need to start with command line instead of gui
