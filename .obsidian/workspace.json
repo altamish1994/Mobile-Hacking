@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installation/Physical Device.md",
+                "file": "Android/Installation/Physical Device.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installation/BurpSuite Setup.md",
+                "file": "Android/Static Analysis/Split APKs.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installation/BurpSuite Setup.md",
+                "file": "Android/Static Analysis/Split APKs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installation/BurpSuite Setup.md",
+                "file": "Android/Static Analysis/Split APKs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Installation/BurpSuite Setup.md"
+                "file": "Android/Static Analysis/Split APKs.md"
               }
             }
           }
@@ -161,27 +161,38 @@
   },
   "active": "edf0295dfc9f5196",
   "lastOpenFiles": [
+    "Android/Static Analysis/Pulling APK.md",
+    "Android/Static Analysis/Manifest.md",
+    "Android/Static Analysis/Decompiling.md",
+    "Android/MOBSF/Observations.md",
+    "Android/MOBSF/Installation.md",
+    "Android/Installation/Tools.md",
+    "Android/Installation/Physical Device.md",
+    "Android/Installation/Emulator.md",
+    "Android/Installation/BurpSuite Setup.md",
+    "Android/Installation/Accesss VM-Host ADB.md",
+    "Android/Dynamic Analysis/Tools.md",
+    "Android/Dynamic Analysis/SSL Pinning ByPass via Objection.md",
+    "Android/Dynamic Analysis/SSL Pinning ByPass via Frida.md",
+    "Android/Dynamic Analysis/SSL Pinning.md",
+    "Android/Dynamic Analysis/Setting Up Proxy.md",
+    "Android/Android Red Teaming/Shops.md",
+    "Android/Android Red Teaming/Injecting AppStore App with Metasploit.md",
+    "Android/Android Red Teaming/Ghost.md",
+    "Android/Android Red Teaming/Generic APK.md",
+    "Android",
+    "Android/Static Analysis/Split APKs.md",
+    "Android/Android Red Teaming",
+    "Pasted image 20230824035031.png",
+    "Pasted image 20230824034731.png",
     "Pasted image 20230824024243.png",
     "Pasted image 20230824024209.png",
     "Pasted image 20230824024015.png",
     "Pasted image 20230824023900.png",
-    "MOBSF/Installation.md",
-    "Installation/BurpSuite Setup.md",
-    "MOBSF/Observations.md",
-    "Dynamic Analysis/Setting Up Proxy.md",
-    "Dynamic Analysis/SSL Pinning.md",
-    "Dynamic Analysis/Tools.md",
-    "Installation/Tools.md",
-    "Dynamic Analysis",
-    "Static Analysis/Manifest.md",
-    "Static Analysis/Decompiling.md",
+    "Android/Dynamic Analysis",
     "README.md",
-    "Static Analysis/Pulling APK.md",
-    "Installation/Physical Device.md",
-    "Installation/Emulator.md",
-    "Installation/Accesss VM-Host ADB.md",
-    "Static Analysis",
-    "Installation",
-    "MOBSF"
+    "Android/Static Analysis",
+    "Android/Installation",
+    "Android/MOBSF"
   ]
 }
