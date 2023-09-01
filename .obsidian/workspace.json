@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Static Analysis/Split APKs.md",
+                "file": "Checklists/Websites.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Static Analysis/Split APKs.md",
+                "file": "Checklists/Websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Static Analysis/Split APKs.md",
+                "file": "Checklists/Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Static Analysis/Split APKs.md"
+                "file": "Checklists/Websites.md"
               }
             }
           }
@@ -161,27 +161,43 @@
   },
   "active": "edf0295dfc9f5196",
   "lastOpenFiles": [
-    "Android/Static Analysis/Pulling APK.md",
-    "Android/Static Analysis/Manifest.md",
-    "Android/Static Analysis/Decompiling.md",
-    "Android/MOBSF/Observations.md",
-    "Android/MOBSF/Installation.md",
-    "Android/Installation/Tools.md",
-    "Android/Installation/Physical Device.md",
-    "Android/Installation/Emulator.md",
-    "Android/Installation/BurpSuite Setup.md",
-    "Android/Installation/Accesss VM-Host ADB.md",
-    "Android/Dynamic Analysis/Tools.md",
-    "Android/Dynamic Analysis/SSL Pinning ByPass via Objection.md",
-    "Android/Dynamic Analysis/SSL Pinning ByPass via Frida.md",
+    "Checklists/Mobile_App_Security_Checklist-English_1.2.xlsx",
+    "Checklists/MobileApp_Checklist_2017.xlsx",
+    "iOS/Installation/BurpSuite Setup.md",
+    "Checklists/Websites.md",
+    "Checklists",
+    "iOS/Installation/SSLKill Chain.md",
+    "iOS/Dynamic Analysis/Jailbreaking.md",
+    "iOS/Installation/BurpSuite Mobile Assisstant.md",
+    "iOS/Tools.md",
+    "iOS/Dynamic Analysis/Objection.md",
+    "iOS/Dynamic Analysis/Requirements.md",
+    "iOS/Installation/Requirements.md",
+    "iOS/Dynamic Analysis",
+    "iOS/Static Analysis/Observations.md",
+    "Android/Android Red Teaming/Shops.md",
     "Android/Dynamic Analysis/SSL Pinning.md",
     "Android/Dynamic Analysis/Setting Up Proxy.md",
-    "Android/Android Red Teaming/Shops.md",
-    "Android/Android Red Teaming/Injecting AppStore App with Metasploit.md",
-    "Android/Android Red Teaming/Ghost.md",
-    "Android/Android Red Teaming/Generic APK.md",
+    "Android/Dynamic Analysis/SSL Pinning ByPass via Frida.md",
+    "Android/Dynamic Analysis/SSL Pinning ByPass via Objection.md",
+    "Android/Dynamic Analysis/Tools.md",
+    "Android/Installation/Accesss VM-Host ADB.md",
+    "Android/Installation/BurpSuite Setup.md",
+    "Android/Installation/Emulator.md",
+    "Android/Installation/Physical Device.md",
+    "Android/Installation/Tools.md",
+    "Android/MOBSF/Installation.md",
+    "Android/MOBSF/Observations.md",
+    "Android/Static Analysis/Decompiling.md",
+    "Android/Static Analysis/Manifest.md",
+    "iOS/Static Analysis",
+    "iOS/Installation",
+    "Pasted image 20230831105216.png",
+    "Pasted image 20230831105049.png",
+    "Pasted image 20230831104932.png",
+    "Pasted image 20230831104834.png",
+    "iOS",
     "Android",
-    "Android/Static Analysis/Split APKs.md",
     "Android/Android Red Teaming",
     "Pasted image 20230824035031.png",
     "Pasted image 20230824034731.png",
@@ -190,9 +206,6 @@
     "Pasted image 20230824024015.png",
     "Pasted image 20230824023900.png",
     "Android/Dynamic Analysis",
-    "README.md",
-    "Android/Static Analysis",
-    "Android/Installation",
-    "Android/MOBSF"
+    "Android/Static Analysis"
   ]
 }

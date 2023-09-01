@@ -1,0 +1,1 @@
+(You can find more information about how to setup Burp Mobile Assistant here: [https://portswigger.net/burp/documentation/desktop/tools/mobile-assistant/installing](https://portswigger.net/burp/documentation/desktop/tools/mobile-assistant/installing))
